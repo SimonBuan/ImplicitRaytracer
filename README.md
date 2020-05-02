@@ -11,7 +11,7 @@ The program is compiled by doing:
   >cc renderer.c -lm -lX11
  
  # Examples of surfaces that can be rendered 
- ![alt text](https://i.imgur.com/rlY3oqY.png)
+ ![alt text](https://i.imgur.com/c32afCO.png)
  
  Tanglecube: x^4-5x^2+y^4-5y^2+z^4-5z^2+11.8=0
  
