@@ -1,5 +1,5 @@
 # ImplicitRaytracer
-This program renders implicit algebraic surfaces of up to degree by using raytracing. The images are rendered using an X11 environment, as well as being saved to a series of .xwd files. 
+This program renders implicit algebraic surfaces of up to degree 4 by using raytracing. The images are rendered using an X11 environment, as well as being saved to a series of .xwd files. 
 
 Uses a simple equation parser to allow for users to enter their own arbitrary surface equations. Equations are solved by solving the roots of quadratic, cubic, and quartic equations.
 
